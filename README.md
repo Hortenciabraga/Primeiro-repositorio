@@ -1,4 +1,3 @@
 # Primeiro-repositorio
-Desafio Dio - GFT Quality Assurance
-
-  Serão disponibilizados links com materiais complementares dos assuntos já estudados
+Desafio Dio - Bootcamp GFT Quality     Assurance
+   Serão disponibilizados links com materiais complementares dos assuntos já estudad
